@@ -30,7 +30,7 @@ Freelancer and web developer. I have experience with JavaScript, TypeScript, nod
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:RobertEyrikh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
