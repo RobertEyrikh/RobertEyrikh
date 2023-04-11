@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p>About:</p>
+<p><strong>About:</strong></p>
 Freelancer and web developer. I have experience with JavaScript, TypeScript, node js, as well as frameworks such as Vue.js, Nuxt, express js and libraries such as Jest, React.js, Three.js. I am interested in the process of developing a web application at all stages, from design to deployment on the server.
 
 <div id="badges" align="center">
